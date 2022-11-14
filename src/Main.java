@@ -33,7 +33,7 @@ public class Main {
             }
         }
         System.out.println("Общая яркость пикселей = " + sum);
-        System.out.println("Средняя яркость пикселей = " + avg);
+        System.out.println("Средняя яркость пикселей = " + (float)avg);
 
 
         for (int i = 0; i < 4; i++) {
